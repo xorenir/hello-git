@@ -1,0 +1,5 @@
+# all log files
+*.log
+
+# folders
+/w3schools-test.github.i
